@@ -31,7 +31,7 @@ const k_muppet = {
 const [moo,neigh,meh,oink,cluck]= farmAnimals
 console.log(moo);
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
-const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'.split("")
+const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'
 
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
 
